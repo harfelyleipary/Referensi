@@ -1,0 +1,10 @@
+[1]	S. Arik and T. Pfister, “TabNet : Attentive Interpretable Tabular Learning,” in The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2021, pp. 6679–6687.
+[2]	U. N. S. Division, “United Nation SDG Dataportal,” UNSDG. [Online]. Available: https://unstats.un.org/sdgs/dataportal
+[3]	I. D’Adamo, M. Della Sciucca, M. Gastaldi, and B. Lupi, “Indicator Assessment of Sustainable Development Goals: A Global Perspective,” Sustain., vol. 17, no. 18, pp. 1–30, 2025, doi: 10.3390/su17188259.
+[4]	H. Leipary, S. Trihandaru, and H. A. Parhusip, “Forecasting and Spatial Analysis of Sustainable Development Goals 1 and 4 Using TabNet,” 2026. doi: 10.25008/ijadis.xxxx.
+[5]	H. Leipary, S. Trihandaru, and H. A. Parhusip, “Multitask Tabular Neural Network for Predicting Global Sustainable Development Indicators,” Manuscript submitted for publication, 2025.
+[6]	H. Leipary and A. Setiawan, “Accuracy of long short-term memory model in predicting YoY inflation of cities in Indonesia,” vol. 14, no. 5, pp. 3887–3896, 2025, doi: 10.11591/ijai.v14.i5.pp3887-3896.
+[7]	H. Leipary and A. Setiawan, “Optimizing Strategic Investment in Indonesian E- Commerce using Hybrid Deep Learning Model,” Manuscript submitted for publication, 2026.
+[8]	P. G. Kandhare, N. Ambalavanan, C. P. Travers, W. A. Carlo, N. M. Sirakov, and A. Nakhmani, “Comparison metrics for multi-step prediction of rare events in vital sign signals,” Biomed. Signal Process. Control, vol. 80, 2023, doi: 10.1016/j.bspc.2022.104371.
+[9]	T. Li et al., “Elderly Fall Detection Based on GCN-LSTM Multi-Task Learning Using Nursing Aids Integrated with Multi-Array Flexible Tactile Sensors,” Biosensors, vol. 13, no. 9, 2023, doi: 10.3390/bios13090862.
+[10]	B. Xue, S. Hu, J. Xu, M. Geng, X. Liu, and H. Meng, “Bayesian Neural Network Language Modeling for Speech Recognition,” IEEE/ACM Trans. Audio Speech Lang. Process., vol. 30, pp. 2900–2917, 2022, doi: 10.1109/TASLP.2022.3203891.
